@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import beforeImage from './assets/before-case-study.jpg';
+import afterImage from './assets/after-case-study.png';
 
 function App() {
   const philosophyPillars = [
@@ -71,11 +72,9 @@ function App() {
               <h4>Before</h4>
               <img src={beforeImage} alt="Before UXClarity optimization" />
             </div>
-            <div className="image-wrapper placeholder">
+            <div className="image-wrapper">
               <h4>After</h4>
-              <div className="placeholder-content">
-                <span>Your new, clarified UI will be displayed here.</span>
-              </div>
+              <img src={afterImage} alt="After UXClarity optimization" />
             </div>
           </div>
         </section>
