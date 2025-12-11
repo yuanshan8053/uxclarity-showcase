@@ -83,7 +83,7 @@ function App() {
           <h2 className="section-title">Get Involved</h2>
           <div className="contact-content">
             <p>This project is currently under active development. If you are interested in integrating UXClarity into your workflow, please contact us.</p>
-            <a href="mailto:zhangzhiwei.x@bytedance.com" className="contact-button">zhangzhiwei.x@bytedance.com</a>
+            <a href="mailto:zhangzhiwei.x@bytedance.com" className="contact-button">Contact Us</a>
           </div>
         </section>
       </main>
