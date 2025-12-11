@@ -65,7 +65,7 @@ function App() {
         <section className="section outcome-section">
           <h2 className="section-title">The Result: From Idea to Impact</h2>
           <div className="outcome-intro">
-            <p>For our inaugural project with "Video One," this methodology transformed technical descriptions into a user-centric narrative that was immediately approved and praised by stakeholders. The visual before-and-after speaks for itself.</p>
+            <p>For our inaugural project with "VideoOne," this methodology transformed technical descriptions into a user-centric narrative that was immediately approved and praised by stakeholders. The visual before-and-after speaks for itself.</p>
           </div>
           <div className="comparison-container">
             <div className="image-wrapper">
