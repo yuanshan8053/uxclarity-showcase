@@ -73,7 +73,7 @@ function App() {
               <img src={beforeImage} alt="Before UXClarity optimization" />
             </div>
             <div className="image-wrapper">
-              <h4>UXClarity 优化中</h4>
+              <h4>UXClarity Optimization in Progress</h4>
               <img src={afterImage} alt="After UXClarity optimization" />
             </div>
           </div>
