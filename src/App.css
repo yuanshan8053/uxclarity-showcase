@@ -187,6 +187,35 @@ main {
   font-size: 1.1rem;
 }
 
+.contact-section .contact-content {
+  text-align: center;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.contact-section p {
+  font-size: 1.15rem;
+  margin-bottom: 2rem;
+}
+
+.contact-button {
+  display: inline-block;
+  background: linear-gradient(45deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+  color: white;
+  padding: 1rem 2.5rem;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.contact-button:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.15);
+}
+
 .footer {
   text-align: center;
   padding: 3rem 1.5rem;
